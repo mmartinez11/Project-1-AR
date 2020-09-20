@@ -40,7 +40,7 @@ public class weatherTell : MonoBehaviour
         baseMain.GetComponent<GameObject>();
 
        // wait a couple seconds to start and then refresh every 900 seconds
-       InvokeRepeating("GetDataFromWeb", 2f, 900f);
+       InvokeRepeating("GetDataFromWeb", 2f, 30f);
    }
 
    void GetDataFromWeb()
