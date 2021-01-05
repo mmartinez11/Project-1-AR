@@ -18,17 +18,17 @@ This AR Project allows the user to view five distinct widgets using special AR M
 5. Use the markers to view each inividual widget
 
 # Date Widget
-* The Date Widget will display the current date. It will use the system date and does not have an animation. 
+> The Date Widget will display the current date. It will use the system date and does not have an animation. 
 
 ![w1](https://user-images.githubusercontent.com/33674827/103609664-f337df80-4ee3-11eb-9d4b-7da9528070d8.PNG)
 
 # Clock Widget 
-* The Clock Widget will display the current time. It will use the system time and does not have an animation
+> The Clock Widget will display the current time. It will use the system time and does not have an animation
 
 ![w2](https://user-images.githubusercontent.com/33674827/103610004-c0dab200-4ee4-11eb-91b5-f99c0e285149.PNG)
 
 # Temperature Widget
-* The Temperature Widget will display the current temperature and humidity. The widget uses the open weather API and will update every 30 seconds.
+> The Temperature Widget will display the current temperature and humidity. The widget uses the open weather API and will update every 30 seconds.
 The red bar will represent the temperature while the blue bar will represent the humidity. Each bar will animate as the temperature and humidity increases 
 or decresses. 
 
@@ -42,7 +42,7 @@ current wind speed. Both poles will animate each time the wind speed and directi
 ![w4](https://user-images.githubusercontent.com/33674827/103610154-1020e280-4ee5-11eb-9b61-50889b9f18e0.PNG)
 
 # Weather Widget
-* The Weather Widget will display the current weather conditions. The widget uses the open weather API and will update every 30 seconds. The widget will display nine different weather conditions: Clear Sky, Few Clouds(Shown), Rain, Thunderstorm, Broken Clouds, Scattered Clouds, Snow, Shower Rain, and Mist. Every weather condition will have a sound effect, and some conditions have looping animations. The condition shown will change when the weather condition changes.  
+> The Weather Widget will display the current weather conditions. The widget uses the open weather API and will update every 30 seconds. The widget will display nine different weather conditions: Clear Sky, Few Clouds(Shown), Rain, Thunderstorm, Broken Clouds, Scattered Clouds, Snow, Shower Rain, and Mist. Every weather condition will have a sound effect, and some conditions have looping animations. The condition shown will change when the weather condition changes.  
 
 ![w5](https://user-images.githubusercontent.com/33674827/103610179-1b740e00-4ee5-11eb-817c-48e428b8830e.PNG)
 
