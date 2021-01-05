@@ -1,6 +1,15 @@
 # Introduction
 This AR Project allows the user to view five distinct widgets using special AR Markers. Each widget will have a distinct functionality and will display appropriate animations. This project is meant to showcase the potential of AR related technology and its possible use in widget creation. 
 
+# Tools
+
+* Unity **2019.4.1f1**
+* Visual Studio Code
+* C# Language
+* Open Weather API
+* Vuforia Augmented Reality Engine
+* Vuforia Mars Markers
+
 # Instructions
 1. Download and install the Unity game engine
 2. Download the vuforia augmented reality engine
@@ -26,7 +35,7 @@ or decresses.
 ![w3](https://user-images.githubusercontent.com/33674827/103610038-cf28ce00-4ee4-11eb-92a2-88bcc07c1c9e.PNG)
 
 # Wind Widget
-* The Wind Widget will display the current wind direction and the wind speed. The widget uses the open weather API and will update every 30 seconds.
+> The Wind Widget will display the current wind direction and the wind speed. The widget uses the open weather API and will update every 30 seconds.
 The large pole with an arrow will always point towards the direction of the wind, while the smaller pole will spin at a certain velocity depending on the
 current wind speed. Both poles will animate each time the wind speed and direction changes.
 
@@ -37,11 +46,3 @@ current wind speed. Both poles will animate each time the wind speed and directi
 
 ![w5](https://user-images.githubusercontent.com/33674827/103610179-1b740e00-4ee5-11eb-817c-48e428b8830e.PNG)
 
-# Tools
-
-* Unity **2019.4.1f1**
-* Visual Studio Code
-* C# Language
-* Open Weather API
-* Vuforia Augmented Reality Engine
-* Vuforia Mars Markers
