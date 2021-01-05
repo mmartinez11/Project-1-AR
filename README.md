@@ -8,6 +8,10 @@ This AR Project allows the user to view five distinct widgets using special AR M
 4. Upload the project into unity
 5. Use the markers to view each inividual widget
 
+# Clock
+![w1](https://user-images.githubusercontent.com/33674827/103609664-f337df80-4ee3-11eb-9d4b-7da9528070d8.PNG)
+
+
 # Tools
 
 * Unity **2019.4.1f1**
