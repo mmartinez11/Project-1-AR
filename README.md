@@ -18,8 +18,10 @@ This AR Project allows the user to view five distinct widgets using special AR M
 ![w3](https://user-images.githubusercontent.com/33674827/103610038-cf28ce00-4ee4-11eb-92a2-88bcc07c1c9e.PNG)
 
 # Wind Widget
+![w4](https://user-images.githubusercontent.com/33674827/103610154-1020e280-4ee5-11eb-9b61-50889b9f18e0.PNG)
 
 # Weather Widget
+![w5](https://user-images.githubusercontent.com/33674827/103610179-1b740e00-4ee5-11eb-817c-48e428b8830e.PNG)
 
 # Tools
 
