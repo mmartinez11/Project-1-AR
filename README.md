@@ -8,5 +8,6 @@ This AR Project allows the user to view five distinct widgets using special AR M
 4. Upload the project into unity
 5. Use the markers to view each inividual widget
 
-#Tools Used
+# Tools
+
 * Unity 2019.4.1f1
