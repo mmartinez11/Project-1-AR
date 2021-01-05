@@ -14,3 +14,5 @@ This AR Project allows the user to view five distinct widgets using special AR M
 * Visual Studio Code
 * C# Language
 * Open Weather API
+* Vuforia Augmented Reality Engine
+* Vuforia Mars Markers
