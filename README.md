@@ -26,9 +26,15 @@ or decresses.
 ![w3](https://user-images.githubusercontent.com/33674827/103610038-cf28ce00-4ee4-11eb-92a2-88bcc07c1c9e.PNG)
 
 # Wind Widget
+* The Wind Widget will display the current wind direction and the wind speed. The widget uses the open weather API and will update every 30 seconds.
+The large pole with an arrow will always point towards the direction of the wind, while the smaller pole will spin at a certain velocity depending on the
+current wind speed. Both poles will animate each time the wind speed and direction changes.
+
 ![w4](https://user-images.githubusercontent.com/33674827/103610154-1020e280-4ee5-11eb-9b61-50889b9f18e0.PNG)
 
 # Weather Widget
+* The Weather Widget will display the current weather conditions. The widget uses the open weather API and will update every 30 seconds. The widget will display nine different weather conditions: Clear Sky, Few Clouds(Shown), Rain, Thunderstorm, Broken Clouds, Scattered Clouds, Snow, Shower Rain, and Mist. Every weather condition will have a sound effect, and some conditions have looping animations. The condition shown will change when the weather condition changes.  
+
 ![w5](https://user-images.githubusercontent.com/33674827/103610179-1b740e00-4ee5-11eb-817c-48e428b8830e.PNG)
 
 # Tools
