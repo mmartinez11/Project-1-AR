@@ -10,16 +10,19 @@ This AR Project allows the user to view five distinct widgets using special AR M
 
 # Date Widget
 * The Date Widget will display the current date. It will use the system date and does not have an animation. 
+
 ![w1](https://user-images.githubusercontent.com/33674827/103609664-f337df80-4ee3-11eb-9d4b-7da9528070d8.PNG)
 
 # Clock Widget 
 * The Clock Widget will display the current time. It will use the system time and does not have an animation
+
 ![w2](https://user-images.githubusercontent.com/33674827/103610004-c0dab200-4ee4-11eb-91b5-f99c0e285149.PNG)
 
 # Temperature Widget
 * The Temperature Widget will display the current temperature and humidity. The widget uses the open weather API and will update every 30 seconds.
 The red bar will represent the temperature while the blue bar will represent the humidity. Each bar will animate as the temperature and humidity increases 
 or decresses. 
+
 ![w3](https://user-images.githubusercontent.com/33674827/103610038-cf28ce00-4ee4-11eb-92a2-88bcc07c1c9e.PNG)
 
 # Wind Widget
