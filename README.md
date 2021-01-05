@@ -11,3 +11,6 @@ This AR Project allows the user to view five distinct widgets using special AR M
 # Tools
 
 * Unity **2019.4.1f1**
+* Visual Studio Code
+* C# Language
+* Open Weather API
